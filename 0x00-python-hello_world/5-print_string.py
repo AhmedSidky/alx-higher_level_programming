@@ -1,2 +1,4 @@
 #!/usr/bin/python3
-print ("Holberton SchoolHolberton SchoolHolberton School\nHolberton")
+str = "Holberton School"
+print (3 * str)
+print (str[:9])
